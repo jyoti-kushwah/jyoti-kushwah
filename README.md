@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jyoti-kushwah
-- 👀 I’m interested in myself
+- 👋 Hi, I’m @jyoti-kushwah.
+- 👀 I’m love to explore new things.
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jyotikushwaha0406@gmail.com
