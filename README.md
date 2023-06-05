@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyoti-kushwah.
 - 👀 I’m love to explore new things.
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,REACT,MONGODB,NODEJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jyotikushwaha0406@gmail.com
 
